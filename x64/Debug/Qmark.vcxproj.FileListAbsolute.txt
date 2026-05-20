@@ -1,3 +1,0 @@
-C:\Users\Yimin\source\repos\Qmark\x64\Debug\raylib.dll
-C:\Users\Yimin\source\repos\Qmark\x64\Debug\glfw3.dll
-C:\Users\Yimin\source\repos\Qmark\Qmark\x64\Debug\Qmark.vcxproj.Up2Date
